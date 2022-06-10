@@ -2,7 +2,7 @@ readme: README.md
 clean: true
 author: High Fidelity, Inc
 author_url: https://highfidelity.com/
-github_url: https://github.com/highfidelity/hifi-spatial-audio-swift/
+github_url: https://github.com/ironrustem/hifi-spatial-audio-swift/
 output: docs
 module: HiFiSpatialAudio
 swift_build_tool: xcodebuild
